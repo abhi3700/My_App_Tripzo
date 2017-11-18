@@ -10,7 +10,8 @@ A decentralized platform for Tour, Trip, Travel
 * Green - #7DB707
 * Blue - #2B7CE5
 * Yellow - #FBC70F
-
+**Android resources** - 
+* https://www.uplabs.com/posts/c/android/resources/tool/java
 ### Making logo
 
 * step 1: edit the icon from site - https://www.flaticon.com/free-icon/location-pointer_3913#term=marker&page=1&position=4
