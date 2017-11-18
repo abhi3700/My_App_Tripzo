@@ -11,6 +11,12 @@ A decentralized platform for Tour, Trip, Travel
 * Blue - #2B7CE5
 * Yellow - #FBC70F
 * **Android resources** - https://www.uplabs.com/posts/c/android/resources/tool/java
+* App creating process- http://thinkapps.com/blog/development/process-creating-app-explained/
+* UI inspiration - http://thinkapps.com/blog/design/3-websites-use-get-ui-inspiration-mobile-app/
+* startup logo - http://thinkapps.com/blog/design/how-to-create-your-startup-logo/
+* beginner app dev - https://learntocodewith.me/programming/android/beginner-app-development/
+* 3 UI websites- https://dribbble.com/, https://pttrns.com/android-patterns, 
+
 
 ### Making logo
 
