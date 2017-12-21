@@ -26,7 +26,14 @@ A decentralized platform for Tour, Trip, Travel
 
 
 
-##Steemit (Learn cryptography)
+## Steemit (Learn cryptography)
 * 1- http://learncrypt.com/images/symmetric.png
 * 2- https://zdnet3.cbsistatic.com/hub/i/r/2016/01/14/5a72cb94-9b2f-4c97-9702-a8c10b277f40/resize/770xauto/c45382edde958a640dd3d2aa7fdd7a6c/encryption-820x420.jpg
 
+## Github Libraries
+* Notification Android - https://github.com/halysongoncalves/Pugnotification
+* Logger Android - https://github.com/orhanobut/logger
+* Android update checker - https://github.com/javiersantos/AppUpdater, https://github.com/rampo/UpdateChecker, https://github.com/danielemaddaluno/Android-Update-Checker, https://github.com/androidmads/UpdateHandler, https://github.com/Mohamed1Fouad/Update-Checker-for-Android, https://github.com/hummatli/AndroidAppUpdater
+* Searchview - https://github.com/MiguelCatalan/MaterialSearchView, https://github.com/arimorty/floatingsearchview, https://github.com/claudiodegio/MsvSearch, https://github.com/lapism/SearchView
+*
+* 
