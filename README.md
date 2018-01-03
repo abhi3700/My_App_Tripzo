@@ -35,5 +35,5 @@ A decentralized platform for Tour, Trip, Travel
 * Logger Android - https://github.com/orhanobut/logger
 * Android update checker - https://github.com/javiersantos/AppUpdater, https://github.com/rampo/UpdateChecker, https://github.com/danielemaddaluno/Android-Update-Checker, https://github.com/androidmads/UpdateHandler, https://github.com/Mohamed1Fouad/Update-Checker-for-Android, https://github.com/hummatli/AndroidAppUpdater
 * Searchview - https://github.com/MiguelCatalan/MaterialSearchView, https://github.com/arimorty/floatingsearchview, https://github.com/claudiodegio/MsvSearch, https://github.com/lapism/SearchView
-*
+* Intro pages slider screens  - https://github.com/Ramotion/paper-onboarding-android
 * 
