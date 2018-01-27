@@ -38,3 +38,4 @@ A decentralized platform for Tour, Trip, Travel
 * Intro pages slider screens  - https://github.com/Ramotion/paper-onboarding-android
 * About page - https://github.com/medyo/android-about-page
 * Expanding pager - https://github.com/qs-lll/ExpandingPager
+* Pulsator4Droid (for Location detection) - https://github.com/abhi3700/Pulsator4Droid
