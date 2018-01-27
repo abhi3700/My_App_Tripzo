@@ -37,3 +37,4 @@ A decentralized platform for Tour, Trip, Travel
 * Searchview - https://github.com/MiguelCatalan/MaterialSearchView, https://github.com/arimorty/floatingsearchview, https://github.com/claudiodegio/MsvSearch, https://github.com/lapism/SearchView
 * Intro pages slider screens  - https://github.com/Ramotion/paper-onboarding-android
 * About page - https://github.com/medyo/android-about-page
+* Expanding pager - https://github.com/qs-lll/ExpandingPager
