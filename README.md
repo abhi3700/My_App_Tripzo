@@ -39,3 +39,4 @@ A decentralized platform for Tour, Trip, Travel
 * About page - https://github.com/medyo/android-about-page
 * Expanding pager - https://github.com/qs-lll/ExpandingPager
 * Pulsator4Droid (for Location detection) - https://github.com/abhi3700/Pulsator4Droid
+* Stepper indicator - https://github.com/badoualy/stepper-indicator
