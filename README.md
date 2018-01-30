@@ -1,5 +1,5 @@
 # My_App_Tripzo
-A decentralized platform for Tour, Trip, Travel
+**A incentivized peer-to-peer social platform for Trip, Tour, Travel.**
 
 ### Resources
 **Logo** - 
