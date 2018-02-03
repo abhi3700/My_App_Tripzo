@@ -41,3 +41,9 @@
 * Pulsator4Droid (for Location detection) - https://github.com/abhi3700/Pulsator4Droid
 * Stepper indicator - https://github.com/badoualy/stepper-indicator
 * Realm database - https://realm.io/docs/java/latest (for password storing locally within the device)
+* AskSteem API - https://github.com/Hoxly/asksteem-docs (Search the whole steem blockchain data).
+  Also, for link try this:
+  ```
+  API string = "https://steemit.com/" + tags[0] + author + permlink
+  ```
+* DTube Unofficical Mobile App - https://github.com/powerpoint45/dtube-mobile-unofficial (Take the help from source code mentioned here)
