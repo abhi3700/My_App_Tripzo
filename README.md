@@ -41,6 +41,7 @@
 * Pulsator4Droid (for Location detection) - https://github.com/abhi3700/Pulsator4Droid
 * Stepper indicator - https://github.com/badoualy/stepper-indicator
 * Realm database - https://realm.io/docs/java/latest (for password storing locally within the device)
+* Networking libs: Other than Volley - https://android-arsenal.com/details/1/6659 , https://android-arsenal.com/tag/65
 * AskSteem API - https://github.com/Hoxly/asksteem-docs (Search the whole steem blockchain data).
   Also, for link try this:
   ```
