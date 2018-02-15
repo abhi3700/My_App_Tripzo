@@ -29,6 +29,7 @@
 ## Steemit (Learn cryptography)
 * 1- http://learncrypt.com/images/symmetric.png
 * 2- https://zdnet3.cbsistatic.com/hub/i/r/2016/01/14/5a72cb94-9b2f-4c97-9702-a8c10b277f40/resize/770xauto/c45382edde958a640dd3d2aa7fdd7a6c/encryption-820x420.jpg
+* Steem nodes - https://steemit.com/@curie.json (link - https://developers.steem.io/)
 
 ## Github Libraries
 * Notification Android - https://github.com/halysongoncalves/Pugnotification
