@@ -36,6 +36,7 @@
 * Logger Android - https://github.com/orhanobut/logger
 * Android update checker - https://github.com/javiersantos/AppUpdater, https://github.com/rampo/UpdateChecker, https://github.com/danielemaddaluno/Android-Update-Checker, https://github.com/androidmads/UpdateHandler, https://github.com/Mohamed1Fouad/Update-Checker-for-Android, https://github.com/hummatli/AndroidAppUpdater
 * Searchview - https://github.com/MiguelCatalan/MaterialSearchView, https://github.com/arimorty/floatingsearchview, https://github.com/claudiodegio/MsvSearch, https://github.com/lapism/SearchView
+  Floating SearchView - https://github.com/arimorty/floatingsearchview (used in this project)
 * Intro pages slider screens  - https://github.com/Ramotion/paper-onboarding-android
 * About page - https://github.com/medyo/android-about-page
 * Expanding pager - https://github.com/qs-lll/ExpandingPager
@@ -58,3 +59,9 @@
 * Login screen using nodejs - 
   1. https://www.learn2crack.com/2016/09/android-user-registration-login-node-server.html
   2. https://www.learn2crack.com/2016/09/android-user-registration-login-node-client.html
+* Recyclerview with pagination using retrofit - 
+  1. pagination Basics - http://blog.iamsuleiman.com/android-pagination-tutorial-getting-started-recyclerview/
+  2. pagination retrofit use - http://blog.iamsuleiman.com/android-pagination-recyclerview-tutorial-api-retrofit-gson/
+  3. pagination multiple viewtypes - http://blog.iamsuleiman.com/android-pagination-tutorial-recyclerview-multiple-view-types/
+ * Gallery App (sample) - http://blog.iamsuleiman.com/android-image-gallery-app-gestures-transition/  
+    Shall be used for storing photos into steem blockchain.
