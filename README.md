@@ -38,7 +38,7 @@
 * Searchview - https://github.com/MiguelCatalan/MaterialSearchView, https://github.com/arimorty/floatingsearchview, https://github.com/claudiodegio/MsvSearch, https://github.com/lapism/SearchView
   Floating SearchView - https://github.com/arimorty/floatingsearchview (used in this project)
 * Intro pages slider screens  - https://github.com/Ramotion/paper-onboarding-android
-* About page - https://github.com/medyo/android-about-page
+* About page - https://github.com/medyo/android-about-page , https://github.com/husaynhakeem/about-page-android
 * Expanding pager - https://github.com/qs-lll/ExpandingPager
 * Pulsator4Droid (for Location detection) - https://github.com/abhi3700/Pulsator4Droid
 * Stepper indicator - https://github.com/badoualy/stepper-indicator
