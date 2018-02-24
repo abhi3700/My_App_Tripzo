@@ -1,5 +1,5 @@
 # My_App_Tripzo
-**A incentivized peer-to-peer social platform for Trip, Tour, Travel.**
+**A incentivized p2p social platform for Trip, Tour, Travel.**
 
 ### Resources
 **Logo** - 
