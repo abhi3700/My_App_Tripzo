@@ -25,6 +25,10 @@
 * step 3: edit in "Photoshop" using layers.
 * Compress PNG images - http://compresspng.com/
 
+## Features
+* **Trending Tags** - Click on the tag -> Opens a new screen with Trending (by default) and others (_New, Hot, Promoted_) in 'drop down' arrow.
+
+
 
 ## Steemit (Learn cryptography)
 * 1- http://learncrypt.com/images/symmetric.png
