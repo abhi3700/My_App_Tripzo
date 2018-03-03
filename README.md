@@ -34,7 +34,7 @@
 * 1- http://learncrypt.com/images/symmetric.png
 * 2- https://zdnet3.cbsistatic.com/hub/i/r/2016/01/14/5a72cb94-9b2f-4c97-9702-a8c10b277f40/resize/770xauto/c45382edde958a640dd3d2aa7fdd7a6c/encryption-820x420.jpg
 * Steem nodes - https://steemit.com/@curie.json (link - https://developers.steem.io/)
-* **Steem API (JSON format)** - http://steem.esteem.ws/
+* **Steem API UI (JSON format)** - [Github](https://github.com/eSteemApp/steemapi) , http://steem.esteem.ws/
     E.g. Go to the [link](http://steem.esteem.ws/#!/Post/get_get_discussions_by_trending)
     press _'try it out'_ click the link... & get the JSON output.
 
