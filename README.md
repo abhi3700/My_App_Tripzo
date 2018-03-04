@@ -26,7 +26,11 @@
 * Compress PNG images - http://compresspng.com/
 
 ## Features
-* **Trending Tags** - Click on the tag -> Opens a new screen with Trending (by default) and others (_New, Hot, Promoted_) in 'drop down' arrow.
+* **Trending Tags** - Click on the tag -> Opens a new screen with Trending (by default) and others (_New, Hot, Promoted_) in 'drop down' arrow. http://steem.esteem.ws/#!/Tags/get_get_trending_tags , Sample- https://api.steemjs.com/get_trending_tags?afterTag=life&limit=10
+* **Account** - details of a user - http://steem.esteem.ws/#!/Account/get_get_accounts
+* **Follower & Following** - http://steem.esteem.ws/#!/Account/get_get_follow_count
+* **Comments** - http://steem.esteem.ws/#!/Post/get_get_discussions_by_comments
+* **Replies** - http://steem.esteem.ws/#!/Post/get_get_content_replies
 
 
 
