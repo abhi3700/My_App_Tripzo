@@ -79,3 +79,4 @@
  * Find post in specified tag - https://github.com/grzegorz2047/PolishJavaSteemitBot
  * Bot Upvoter - https://github.com/grzegorz2047/BotUpVoter
  * Steem Image upload - https://github.com/marvin-we/steemj-image-upload
+ * Fancy Buttons - https://github.com/medyo/Fancybuttons
