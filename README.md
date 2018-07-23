@@ -41,6 +41,7 @@
 * **Steem API UI (JSON format)** - [Github](https://github.com/eSteemApp/steemapi) , http://steem.esteem.ws/
     E.g. Go to the [link](http://steem.esteem.ws/#!/Post/get_get_discussions_by_trending)
     press _'try it out'_ click the link... & get the JSON output.
+* Steem API - https://github.com/bonuschain/api.steemjs.com
 
 ## Github Libraries
 * Notification Android - https://github.com/halysongoncalves/Pugnotification
